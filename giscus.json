@@ -1,6 +1,3 @@
 {
-   "origins": [
-   "https://dotnetuniversity.com"
-    ],
-    "originsRegex": ["http://localhost:[0-9]+", "https://dotnetuniversity.com"]
+    "originsRegex": ["http://localhost:[0-9]+"]
 }
